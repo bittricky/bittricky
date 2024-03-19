@@ -6,7 +6,7 @@ class Person {
     this.name = "Mitul Patel";
     this.roles = ["Software Engineer", "Programmer", "Developer"];
     this.languagesSpoken = ["hi_IN", "gu_IN", "en_US"];
-    this.programmingLanguages = ["Javascript", "Python", "C#"];
+    this.code = ["Javascript", "Python", "C#"];
   }
 
   sayHi = () => {
