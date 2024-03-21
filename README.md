@@ -7,6 +7,16 @@ class Person {
     this.roles = ["Software Engineer", "Programmer", "Developer"];
     this.languagesSpoken = ["hi_IN", "gu_IN", "en_US"];
     this.code = ["Javascript", "Python", "C#"];
+    this.hobbies = [
+      "Movies",
+      "Games",
+      "Reading",
+      "Crafting",
+      "Fitness",
+      "Eating",
+      "Traveling",
+      "Learning",
+    ];
   }
 
   sayHi = () => {
