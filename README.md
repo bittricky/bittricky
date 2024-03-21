@@ -8,7 +8,7 @@ class Person {
     this.languagesSpoken = ["hi_IN", "gu_IN", "en_US"];
     this.code = ["Javascript", "Python", "C#"];
     this.hobbies = [
-      "Movies",
+      "Movies & Shows",
       "Games",
       "Reading",
       "Crafting",
