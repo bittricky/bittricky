@@ -29,7 +29,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: bittricky
-         outputs: |
+          outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=purple&color_dots=#FFD700,#F2CE0D,#E6C61A,#D9BD26,#CCB433
