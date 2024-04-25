@@ -33,7 +33,3 @@ class Person {
 const me = new Person();
 me.sayHi();
 ```
-
-```
-
-```
