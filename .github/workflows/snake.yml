@@ -30,6 +30,8 @@ jobs:
         with:
           github_user_name: bittricky
           outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.gif?color_snake=purple&color_dots=#FFE34D,#F2CE0D,#E6C61A,#D9BD26,#CCB433
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
