@@ -16,6 +16,7 @@ class Person {
       "Movies & Shows",
       "Games",
       "Reading",
+      "Writing",
       "Crafting",
       "Fitness",
       "Eating",
