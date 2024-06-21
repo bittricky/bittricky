@@ -23,6 +23,7 @@ class Person {
       "Traveling",
       "Learning",
       "Programming",
+      "Crowd Watching",
     ];
   }
 
