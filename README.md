@@ -25,6 +25,7 @@ class Person {
       "Learning",
       "Programming",
       "Crowd Watching",
+      "Lock Picking",
     ];
   }
 
