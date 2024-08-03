@@ -26,7 +26,8 @@ class Person {
       "Programming",
       "Crowd Watching",
       "Lock Picking",
-      "Photo Tracing"
+      "Photo Tracing",
+      "Digital Miniature Modeling"
     ];
   }
 
