@@ -27,7 +27,7 @@ class Person {
       "Crowd Watching",
       "Lock Picking",
       "Photo Tracing",
-      "Digital Miniature Modeling"
+      "Heroforge Miniature Modeling"
     ];
   }
 
