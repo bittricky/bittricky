@@ -12,23 +12,6 @@ class Person {
     this.name = "Mitul Patel";
     this.languagesSpoken = ["hi_IN", "gu_IN", "en_US"];
     this.code = ["Javascript", "Python", "C#"];
-    this.hobbies = [
-      "Movies & Shows",
-      "Games",
-      "Reading",
-      "Writing",
-      "Crafting",
-      "Hiking",
-      "Body Building",
-      "Eating",
-      "Traveling",
-      "Learning",
-      "Programming",
-      "Crowd Watching",
-      "Lock Picking",
-      "Photo Tracing",
-      "Heroforge Miniature Modeling"
-    ];
   }
 
   sayHi = () => {
