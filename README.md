@@ -1,4 +1,4 @@
-## Hey There 👋🏽
+## Why, Hello there! 👋🏽
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bittricky/bittricky/blob/output/github-snake-dark.svg" />
