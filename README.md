@@ -1,3 +1,9 @@
+[![bittricky | NPM package](https://img.shields.io/npm/v/bittricky.svg?style=for-the-badge&color=red)](https://www.npmjs.com/package/bittricky)
+
+```bash
+npx bittricky
+```
+
 ## Why, Hello there! 👋🏽
 
 <picture>
