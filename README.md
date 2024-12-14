@@ -17,7 +17,7 @@ class Person {
   constructor() {
     this.name = "Mitul Patel";
     this.languagesSpoken = ["hi_IN", "gu_IN", "en_US"];
-    this.code = ["Javascript", "Python", "C#"];
+    this.code = ["Javascript", "Python", "C#", "SQL"];
   }
 
   sayHi = () => {
