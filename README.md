@@ -16,14 +16,23 @@ npx bittricky
 class Person {
   constructor() {
     this.name = "Mitul Patel";
-    this.languagesSpoken = ["hi_IN", "gu_IN", "en_US"];
-    this.code = ["Javascript", "Typescript", "Python", "C#", "SQL", "Bash"];
+
+    this.languages = {
+      hindi: "hi-IN",
+      gujarati: "gu-IN",
+      english: "en-US",
+    };
+
+    this.tech = {
+      languages: ["JavaScript", "TypeScript", "Python", "SQL", "Bash"]
+    };
   }
 
-  sayHi = () => {
-    console.log(`Hey, Thanks for stopping by.`);
-  };
+  sayHi() {
+    console.log("Thanks for stopping by. Feel free to look around and explore.");
+  }
 }
+
 
 const me = new Person();
 me.sayHi();
